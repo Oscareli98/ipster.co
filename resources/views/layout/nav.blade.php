@@ -2,9 +2,9 @@
   <section class="nav-left">
     <a class="logo" href="{{ route('home') }}"><img src="{{ asset('img/nav-logo.png') }}" alt="ipster"></a>
     <section class="items">
-      <a href="#">Último</a>
-      <a href="#">Caliente</a>
-      <a href="#">Nuevo</a>
+      <a href="{{ route('top') }}">Principales</a>
+      <a href="{{ route('hot') }}">Populares</a>
+      <a href="{{ route('new') }}">Nuevos</a>
     </section>
   </section>
 

@@ -48,7 +48,7 @@ ipster | fotos hilarantes
           <a href="#" class="prev disabled"><i class="fa fa-arrow-left"></i></a>
         @endif
 
-        <a href="{{ route('posts.show', $rand->id) }}" class="random"><i class="fa fa-random"></i></a>
+        <a href="{{ route('posts.random') }}" class="random"><i class="fa fa-random"></i></a>
 
         @if($post->hasNext())
           <a href="{{ route('posts.show', $post->next()->id) }}" class="next"><i class="fa fa-arrow-right"></i></a>

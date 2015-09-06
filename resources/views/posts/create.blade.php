@@ -4,6 +4,10 @@
 new post | ipster
 @endsection
 
+@section('js')
+<script src="{{ asset('js/lib/dropzone.js') }}"></script>
+@endsection
+
 @section('content')
 
     <div class="container">
@@ -39,6 +43,7 @@ new post | ipster
 
             <button type="submit" class="btn">Save</button>
         </form>
+
     </div>
 
 @endsection

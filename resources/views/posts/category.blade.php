@@ -1,8 +1,13 @@
 @extends('app')
 
 @section('title')
-ipster | fotos hilarantes
+ipster | fotos {{ $category }}
 @endsection
+
+@section('class')
+"page-view"
+@endsection
+
 
 @section('js')
 <script src="{{ asset('bower_components/imagesloaded/imagesloaded.pkgd.min.js') }}"></script>
@@ -12,7 +17,7 @@ ipster | fotos hilarantes
 @section('content')
 
 <section class="posts-wrap hot">
-  <h1>Fotos <strong>Calientes</strong></h1> <a class="btn btn-large more" href="{{ route('hot') }}" class="more">Ver Màs</a>
+  <h1>Fotos <strong>{{ $category }}</strong></h1>
   <div class="posts masonry">
     @foreach($posts as $post)
       <div class="post-outer">
@@ -27,22 +32,9 @@ ipster | fotos hilarantes
         </a>
       </div>
     @endforeach
-
   </div>
 </section>
 
-
-
-
-<section class="photo-section sponsored">
-<div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script>
-
-</section>
-
 </div>
-
-<footer>
-
-</footer>
 
 @endsection

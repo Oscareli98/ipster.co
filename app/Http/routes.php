@@ -23,6 +23,26 @@ Route::get('posts/{id}/share/{type}', [
     'uses' => 'PostController@share',
 ]);
 
+Route::get('random', [
+    'as' => 'posts.random',
+    'uses' => 'ContentController@getRandom'
+]);
+
+Route::get('principales', [
+    'as' => 'top',
+    'uses'  => 'ContentController@getTop'
+]);
+
+Route::get('populares', [
+    'as' => 'hot',
+    'uses'  => 'ContentController@getHot'
+]);
+
+Route::get('nuevos', [
+    'as' => 'new',
+    'uses'  => 'ContentController@getNew'
+]);
+
 // Authentication routes...
 Route::get('login', 'Auth\AuthController@getLogin');
 Route::post('login', 'Auth\AuthController@postLogin');

@@ -18,7 +18,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $posts = Post::take(7)->orderBy('id', 'desc')->get();
+        $posts = Post::take(6)->orderBy('id', 'desc')->get();
         return  view('pages.home')
                 ->with('posts', $posts);
     }
