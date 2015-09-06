@@ -1,0 +1,108 @@
+.post
+    display: block
+    background: #FFFFFF
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.27)
+    border-radius: 3px
+    overflow: hidden
+
+    .post-content
+        padding: 5px 10px 10px 10px
+
+    p.title
+        color: black
+        font:
+            size: 26px
+            weight: 500
+        line-height: 35px
+        margin: 0
+
+    .stats
+        +cf
+        margin-top: 5px
+
+        p
+            margin: 0
+            color: #727272
+
+
+    img
+        width: 100%
+        height: auto
+
+.post-wrap
+
+    .buttons
+        padding: 20px 0 0px 0
+        +cf
+
+        a
+            +col(1/3, $cycle: 3)
+            font-size: 28px
+            margin-bottom: 0
+
+            text-align: center
+            padding: 5px
+            color: white
+            text-transform: uppercase
+            font-weight: 500
+
+            /* BG: */
+            background-image: linear-gradient(-180deg, #E93A50 0%, #D03548 100%)
+            box-shadow: 0px 4px 0px 0px #A70E21
+            border-radius: 3px
+
+            i
+                position: relative
+                top: -2px
+
+
+            &.random
+                /* BG: */
+                background-image: linear-gradient(-180deg, #28D3C7 0%, #34BACC 100%)
+                box-shadow: 0px 4px 0px 0px #329CAB
+                border-radius: 3px
+
+            &:active, &.random:active
+                box-shadow: none
+                position: relative
+                top: 4px
+
+            &.disabled
+                opacity: 0.5
+                pointer-events: none
+
+    .share
+        margin: 15px 0
+        +cf
+
+        a
+            +col(1/3, $cycle: 3, $gutter: 0)
+            text-align: center
+            background: $brand-secondary
+            color: white
+            font-size: 22px
+            color: transparentize(white, 0.1)
+            text-transform: uppercase
+            font-weight: 500
+            padding: 2px
+
+            .text
+                display: none
+
+                +media(L)
+                    display: inline
+
+            &:hover
+                color: white
+
+            &.facebook
+                background: #3B5998
+                box-shadow: 0px 3px 0px 0px #36528C
+
+            &.twitter
+                background: #4099FF
+                box-shadow: 0px 3px 0px 0px #3A8DEB
+
+            &.gplus
+                background: #517FEC
+                box-shadow: 0px 3px 0px 0px darken(#517FEC, 5%)

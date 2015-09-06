@@ -1,0 +1,102 @@
+.page-view
+
+    .container, .content, .left, .right
+        margin-top: 20px
+
+    .content
+        padding: 0 20px
+        +cf
+
+    .left
+        display: none
+        @media(min-width: 800px)
+            display: block
+
+        text-align: left
+
+        .posts
+            max-width: 300px
+            margin: auto
+
+        h3
+            margin: 0
+            padding: 0
+            margin-bottom: 20px
+
+        .post
+
+
+            display: block
+            text-align: justify
+            margin-bottom: 10px
+            overflow: hidden
+
+            img
+                display: block
+
+
+    $center-width: .35
+
+    .left, .right, .center
+        +col(1)
+
+    @media(min-width: 800px)
+        $center-width: .5
+        .left, .right
+            +col((1-$center-width)/2)
+
+        .center
+            +col($center-width)
+
+    @media(min-width: 1300px)
+        $center-width: .35
+        .left, .right
+            +col((1-$center-width)/2)
+
+        .center
+            +col($center-width)
+
+
+    section.posts-wrap
+        padding: 30px
+
+        h1
+            font-weight: 300
+            text-transform: uppercase
+            color: $brand-secondary
+            font-size: 36px
+
+            strong
+                font-weight: 400
+
+        .post-outer
+            width: 100%
+            padding: 5px
+
+            +media(S)
+                width: 50%
+
+            +media(M)
+                width: 25%
+
+            +media(L)
+                width: (100%/6)
+
+
+        .post
+            // +col(1/6, $cycle: 6)
+            width: 100%
+            // margin-bottom: 0px
+
+        // .post
+        //     +col(1)
+
+        //     +media(S)
+        //         +col(1/2, $cycle: 2)
+
+        //     +media(M)
+        //         +col(1/3, $cycle: 3, $uncycle: 2)
+
+        //     +media(M)
+        //         +col(1/6, $cycle: 6, $uncycle: 3)
+

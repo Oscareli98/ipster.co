@@ -1,0 +1,62 @@
+// breakpoints
+
+$S:     600px;
+$M:     768px;
+$L:     1170px;
+
+// media queries
+
+@mixin media($canvas) {
+  @if $canvas == S {
+   @media only screen and (min-width: $S) { @content; }
+  }
+  @else if $canvas == M {
+   @media only screen and (min-width: $M) { @content; }
+  }
+  @else if $canvas == L {
+   @media only screen and (min-width: $L) { @content; }
+  }
+}
+
+@mixin media-lt($canvas) {
+  @if $canvas == S {
+   @media only screen and (max-width: $S) { @content; }
+  }
+  @else if $canvas == M {
+   @media only screen and (max-width: $M) { @content; }
+  }
+  @else if $canvas == L {
+   @media only screen and (max-width: $L) { @content; }
+  }
+}
+
+@mixin media-only($canvas) {
+  @if $canvas == S {
+   @media only screen and (min-width: $S) and (max-width: $M) { @content; }
+  }
+  @else if $canvas == M {
+   @media only screen and (min-width: $M) and (max-width: $L) { @content; }
+  }
+  @else if $canvas == L {
+   @media only screen and (min-width: $L) { @content; }
+  }
+}
+
+
+.hidden-gt-sm{
+  display: inherit !important;
+
+  @include media(S) {
+    display: none !important;
+  }
+}
+
+.hidden-lt-sm{
+  display: none !important;
+
+  @include media(S) {
+    display: inherit !important;
+  }
+}
+
+
