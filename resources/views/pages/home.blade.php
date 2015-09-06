@@ -35,7 +35,7 @@ ipster | fotos hilarantes
 
 
 <section class="photo-section sponsored">
-<div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script>
+{{-- <div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script> --}}
 
 </section>
 
