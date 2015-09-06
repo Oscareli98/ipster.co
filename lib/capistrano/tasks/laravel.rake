@@ -32,13 +32,4 @@ namespace :laravel do
     end
   end
 
-  desc "Update Laravel GeoIP Database"
-  task :geoip do
-    on roles(:app), in: :sequence, wait: 5 do
-      within release_path do
-        execute :php, "artisan geoip:update"
-      end
-    end
-  end
-
 end

@@ -46,6 +46,5 @@ namespace :deploy do
   after :updated, "laravel:permissions"
   after :updated, "laravel:optimize"
   after :updated, "laravel:migrate"
-  after :updated, "laravel:geoip"
 
 end

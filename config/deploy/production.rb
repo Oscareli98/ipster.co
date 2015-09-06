@@ -18,7 +18,7 @@
 # Don't use `:all`, it's a meta role.
 
 # role :app, %w{deploy@example.com}, my_property: :my_value
-role :web, %w{root@lasa2017.com}
+role :app, %w{root@lasa2017.com}
 # role :db,  %w{deploy@example.com}
 
 

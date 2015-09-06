@@ -88,7 +88,8 @@ ipster | fotos hilarantes
   </div>
 
   <div class="right">
-    <div id="ayboll-w-5961"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5961"]);</script>
+    {{-- <div id="ayboll-w-5961"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5961"]);</script> --}}
+    &nbsp;
   </div>
 
 </div>
