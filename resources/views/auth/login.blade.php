@@ -5,7 +5,6 @@
 <div class="container">
 	<form role="form" method="POST" action="{{ url('login') }}" class="form">
 		<h1>Sign In</h1>
-			<h2>Need an account? <a href="{{ url('register') }}">Create one.</a></h2>
 
 			@if (count($errors) > 0)
 				<div class="alert alert-danger">
