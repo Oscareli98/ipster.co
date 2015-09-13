@@ -1,0 +1,43 @@
+ul.post-list
+  display: block
+  margin: 0
+  padding: 0
+  list-style: none
+
+  li
+    margin: 10px 0
+    padding: 0
+    height: 100px
+    border-bottom: solid 1px #ddd
+    background: #fff
+    border-radius: 3px
+    border: solid 1px #ddd
+
+    box-shadow: 0 1px 0.5px rgba(0,0,0,.1)
+
+
+    img
+      height: 100%
+      width: 100px
+      float: left
+      padding: 10px
+
+    .content
+      float: left
+      position: relative
+      top: 50%
+      +transform(translateY(-50%))
+
+      p
+        margin: 0
+        padding: 0
+
+      .title
+        font-size: 16px
+        color: #333
+
+      .schedule
+        color: #aaa
+
+        strong
+          font-weight: 600

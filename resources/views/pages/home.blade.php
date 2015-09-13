@@ -36,7 +36,25 @@ ipster | fotos hilarantes
 
 <section class="photo-section sponsored">
 {{-- <div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script> --}}
+<div id="contentad80672"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "e87d58dd-5e27-43f6-9f7a-807fd0fe94b3",
+            d:  "aXBzdGVyLmNv",
+            wid: "80672",
+            cb: (new Date()).getTime()
+        };
 
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad80672").appendChild(s);
+    })(document);
+</script>
 </section>
 
 </div>

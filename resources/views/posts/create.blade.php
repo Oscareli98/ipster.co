@@ -12,37 +12,41 @@ new post | ipster
 
     <div class="container">
         <form class="form" action="{{ route('posts.store') }}" method='POST' enctype="multipart/form-data">
-            <h1>Create a Post</h1>
+           <h1 class="red">New <strong>Post</strong></h1>
 
-            @if (count($errors) > 0)
-                <div class="alert alert-danger">
-                    <strong>Whoops!</strong> There were some problems with your input.
+               @if (count($errors) > 0)
+                   <div class="alert alert-danger">
+                       <strong>Whoops!</strong> There were some problems with your input.
 
-                    <ul>
-                        @foreach($errors->all() as $error)
-                            <li>{{ $error }}</li>
-                        @endforeach
-                    </ul>
-                </div>
-            @endif
+                       <ul>
+                           @foreach($errors->all() as $error)
+                               <li>{{ $error }}</li>
+                           @endforeach
+                       </ul>
+                   </div>
+               @endif
 
-            {!! csrf_field() !!}
+               {!! csrf_field() !!}
 
-            <label class="form-control">Title
-                <input type="text" id="title" name="title">
-            </label>
+               <label class="form-control">Title
+                   <input type="text" placeholder="for website only" id="title" name="title">
+               </label>
 
+               <label class="form-control">Caption
+                   <input type="text" placeholder="for facebook only" id="caption" name="caption">
+               </label>
 
-            <div class="form-control">
-            <label for="file">Image</label>
-            {{-- <label class="file form-control"> --}}
-              <input type="file" id="file" name="image" accept="image/*" aria-label="Image Select">
-              {{-- <span class="file-custom"></span> --}}
-            {{-- </label> --}}
-            </div>
+               <label class="form-control">Time
+                   <input type="datetime-local" placeholder="for website only" id="time" name="time">
+               </label>
 
-            <button type="submit" class="btn">Save</button>
-        </form>
+               <div class="form-control">
+                 <label for="file">Image</label>
+                 <input type="file" id="file" name="image" accept="image/*" aria-label="Image Select">
+               </div>
+
+               <button type="submit" class="btn">Save</button>
+           </form>
 
     </div>
 

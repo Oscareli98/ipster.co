@@ -46,13 +46,20 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
+
+        // return strtotime($request->get('time'));
+        // return $request->all();
         $this->validate($request, [
-            'image' => 'required|image'
+            'image' => 'required|image',
+            'time'  => 'date'
         ]);
 
         $image = $request->file('image');
 
         $title = $request->get('title') == "" ? NULL : $request->get('title');
+        $caption = $request->get('caption') == "" ? NULL : $request->get('caption');
+
+        $time = $request->get('time') == "" ? date('Y-m-d H:i:s') : $request->get('time');
 
         $url = "/uploads/posts/images/";
         $filename = time() . uniqid() . '.' . $image->getClientOriginalExtension();
@@ -61,12 +68,14 @@ class PostController extends Controller
         Storage::disk('s3')->put($filepath, file_get_contents($image));
 
         $post = Post::create([
-            'title' => $title,
-            'url'   => 'https://s3.amazonaws.com/ipster.co-uploads' . $filepath,
-            'storage_path' => $filepath
+            'title'         => $title,
+            'caption'       => $caption,
+            'scheduled'     => $time,
+            'url'           => 'https://s3.amazonaws.com/ipster.co-uploads' . $filepath,
+            'storage_path'  => $filepath
         ]);
 
-        return redirect()->route('posts.create');
+        return redirect()->route('admin-dashboard');
 
     }
 

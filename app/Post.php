@@ -3,33 +3,48 @@
 namespace App;
 
 use OpenGraph;
+use Carbon\Carbon;
 
 use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model
 {
 
-    protected $fillable = ['title', 'url', 'storage_path'];
+    protected $fillable = ['title', 'url', 'storage_path', 'scheduled', 'posted'];
 
     public function hasNext() {
-        return !is_null(Post::where('id', '>', $this->id)->first());
+        return !is_null(Post::posted()->where('id', '>', $this->id)->first());
     }
 
     public function hasPrev() {
-        return !is_null(Post::where('id', '<', $this->id)->first());
+        return !is_null(Post::posted()->where('id', '<', $this->id)->first());
     }
 
     public function next() {
-        return Post::where('id', '>', $this->id)->first();
+        return Post::posted()->where('id', '>', $this->id)->first();
     }
 
     public function prev() {
-        return Post::where('id', '<', $this->id)->orderBy('id', 'desc')->first();
+        return Post::posted()->where('id', '<', $this->id)->orderBy('id', 'desc')->first();
     }
 
     public static function random() {
-        return Post::orderByRaw("RAND()")->first();
+        return Post::posted()->orderByRaw("RAND()")->first();
     }
+
+    public static function posted() {
+        return Post::where('scheduled', '>=', new \DateTime('today'));
+    }
+
+     public function getHumanTimestampAttribute($column)
+     {
+         if ($this->attributes[$column])
+         {
+         return Carbon::parse($this->attributes[$column])->diffForHumans();
+         }
+
+         return null;
+     }
 
     public function getGraph() {
         $og = new OpenGraph();
@@ -43,7 +58,9 @@ class Post extends Model
     }
 
     public static function top($amt) {
-        $posts = Post::orderBy('views', 'desc')->take($amt)->get();
+        $posts = Post::posted()->orderBy('views', 'desc')->take($amt)->get();
         return $posts;
     }
+
+
 }

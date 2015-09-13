@@ -3,6 +3,7 @@ span.file-custom:before
 
 form.form
     +col(1, $offset: 0)
+    margin-bottom: 30px
 
     h1
         font-size: 48px
@@ -17,8 +18,12 @@ form.form
     .btn
         width: 100%
 
-    +media(M)
-        +col(.5, $offset: .25)
+    &.center
+        +media(M)
+            +col(.5, $offset: .25)
+
+    input
+        font-family: 'Open Sans'
 
     label.form-control, .form-control
         display: block
@@ -29,7 +34,7 @@ form.form
 
     input:not([type="radio"]):not([type="checkbox"]), textarea
         display: block
-        font-size: 24px
+        font-size: 18px
         appearance: none
         border: solid 1px #ddd
         padding: 10px

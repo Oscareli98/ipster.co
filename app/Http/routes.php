@@ -16,6 +16,15 @@ Route::get('/', [
     'uses' => 'HomeController@index'
 ]);
 
+Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
+
+    Route::get('/', [
+        'as' => 'admin.dashboard',
+        'uses' => 'AdminController@index'
+    ]);
+
+});
+
 Route::resource('posts', 'PostController');
 
 Route::get('posts/{id}/share/{type}', [
