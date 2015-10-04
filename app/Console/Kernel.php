@@ -5,6 +5,8 @@ namespace App\Console;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
+use App;
+
 class Kernel extends ConsoleKernel
 {
     /**
@@ -24,7 +26,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        if ($app->environment('production'))
+        if (App::environment('production'))
         {
             $schedule->call(function() {
                 App::call('App\Http\Controllers\MemeBotController@scrapeMemes');
