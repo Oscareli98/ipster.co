@@ -22,7 +22,7 @@ ipster | admin
           <li>
             <img src="{{ $post->url }}" alt="">
             <div class="content">
-              <p class="title">1</p>
+              <p class="title">{{ $post->title }}</p>
               <p class="schedule">scheduled for <strong>{{ $post->getHumanTimestampAttribute('scheduled') }}</strong></p>
 
             </div>

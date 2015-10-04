@@ -22,7 +22,7 @@ class AdminController extends Controller
 
         $posts = Post::all();
         // $scheduled = Post::where('scheduled', '>', 'Date()')->get();
-        $scheduled = Post::where('scheduled', '>=', new \DateTime('today'))->get();
+        $scheduled = Post::where('scheduled', '>=', new \DateTime('today'))->orWhere('scheduled', NULL)->get();
 
         return view('admin.dashboard')
                 ->with('posts', $posts)

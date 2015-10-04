@@ -9,7 +9,10 @@
         "laravel/framework": "5.1.*",
         "league/flysystem-aws-s3-v3": "~1.0",
         "chencha/share": "^5.0",
-        "chriskonnertz/open-graph": "dev-master"
+        "chriskonnertz/open-graph": "dev-master",
+        "fabpot/goutte": "^3.1",
+        "sammyk/laravel-facebook-sdk": "~3.0",
+        "filp/whoops": "~1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

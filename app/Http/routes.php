@@ -11,6 +11,11 @@
 |
 */
 
+Route::get('memebot', [
+    'as' => 'memebot',
+    'uses' => 'MemeBotController@test'
+]);
+
 Route::get('/', [
     'as' => 'home',
     'uses' => 'HomeController@index'

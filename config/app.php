@@ -146,6 +146,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         Chencha\Share\ShareServiceProvider::class,
         ChrisKonnertz\OpenGraph\OpenGraphServiceProvider::class,
+        SammyK\LaravelFacebookSdk\LaravelFacebookSdkServiceProvider::class,
 
 
     ],
@@ -198,6 +199,8 @@ return [
         'View'      => Illuminate\Support\Facades\View::class,
         'Share'     => Chencha\Share\ShareFacade::class,
         'OpenGraph' => ChrisKonnertz\OpenGraph\OpenGraph::class,
+        'Goutte'    => Goutte\Client::class,
+        'Facebook'  => SammyK\LaravelFacebookSdk\FacebookFacade::class,
 
     ],
 
