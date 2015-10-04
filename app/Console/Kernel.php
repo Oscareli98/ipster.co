@@ -24,9 +24,9 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        // $schedule->command('inspire')
-                 // ->hourly();
-                 //
+        $schedule->call(function() {
+            App::call('App\Http\Controllers\MemeBotController@scrapeMemes');
+        })->dailyAt("00:00");
 
     }
 }

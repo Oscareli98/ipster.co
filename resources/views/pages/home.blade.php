@@ -20,8 +20,8 @@ ipster | fotos hilarantes
           <img src="{{ $post->url }}" alt="">
           <div class="post-content">
             <div class="stats">
-              <p class="time pull-left">{{ $post->views }} view{{ $post->views == 1 ? '' : 's' }}</p>
-              <p class="shares pull-right">{{ $post->shares }} share{{ $post->shares == 1 ? '' : 's' }}</p>
+              <p class="time pull-left">{{ $post->views }} visualizacione{{ $post->views == 1 ? '' : 's' }}</p>
+              <p class="shares pull-right">compartida {{ $post->shares }} veces</p>
             </div>
           </div>
         </a>
@@ -35,11 +35,11 @@ ipster | fotos hilarantes
 
 
 <section class="photo-section sponsored">
-<div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script>
+{{-- <div id="ayboll-w-5715"></div><script type="text/javascript">window._aybollw=window._aybollw||[];_aybollw.push(["id", "5715"]);</script> --}}
 <style type="text/css" id="ac_80672_css">
-  #ac_80672 {
+/*  #ac_80672 {
     width: 16.666666%;
-  }
+  }*/
 </style>
 
 <div id="contentad80672"></div>

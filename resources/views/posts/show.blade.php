@@ -28,8 +28,8 @@ ipster | fotos hilarantes
           <img src="{{ $topPost->url }}" alt="">
           <div class="post-content">
             <div class="stats">
-              <p class="time pull-left">{{ $topPost->views }} view{{ $topPost->views == 1 ? '' : 's' }}</p>
-              <p class="shares pull-right">{{ $topPost->shares }} share{{ $topPost->shares == 1 ? '' : 's' }}</p>
+              <p class="time pull-left">{{ $post->views }} visualizacione{{ $post->views == 1 ? '' : 's' }}</p>
+              <p class="shares pull-right">compartida {{ $post->shares }} veces</p>
             </div>
           </div>
         </a>
@@ -70,8 +70,8 @@ ipster | fotos hilarantes
             <p class="title">{{ $post->title }}</p>
           @endif
           <div class="stats">
-            <p class="time pull-left">{{ $post->views }} view{{ $post->views == 1 ? '' : 's' }}</p>
-            <p class="shares pull-right">{{ $post->shares }} share{{ $post->shares == 1 ? '' : 's' }}</p>
+            <p class="time pull-left">{{ $post->views }} visualizacione{{ $post->views == 1 ? '' : 's' }}</p>
+            <p class="shares pull-right">compartida {{ $post->shares }} veces</p>
           </div>
         </div>
       </div>
@@ -103,8 +103,8 @@ ipster | fotos hilarantes
           <img src="{{ $post->url }}" alt="">
           <div class="post-content">
             <div class="stats">
-              <p class="time pull-left">{{ $post->views }} view{{ $post->views == 1 ? '' : 's' }}</p>
-              <p class="shares pull-right">{{ $post->shares }} share{{ $post->shares == 1 ? '' : 's' }}</p>
+              <p class="time pull-left">{{ $post->views }} visualizacione{{ $post->views == 1 ? '' : 's' }}</p>
+              <p class="shares pull-right">compartida {{ $post->shares }} veces</p>
             </div>
           </div>
         </a>

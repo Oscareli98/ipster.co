@@ -89,7 +89,7 @@ class PostController extends Controller
     {
         $post = Post::findOrFail($id);
 
-        $post->views++;
+        $post->views += rand(1, 25);
         $post->save();
 
         $rand = Post::random();
@@ -143,7 +143,7 @@ class PostController extends Controller
         $loaded = \Chencha\Share\ShareFacade::load(route('posts.show', $id));
 
         $post = Post::findOrFail($id);
-        $post->shares++;
+        $post->shares += rand(5, 15);
         $post->save();
 
         switch($type) {

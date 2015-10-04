@@ -22,7 +22,7 @@ class MemeBotController extends Controller
      *
      * @return Response
      */
-    public function test()
+    public function scrapeMemes()
     {
         // return Post::nextDateTimeString();
         // return Facebook::getPageTabHelper()->getAccessToken();
@@ -49,7 +49,9 @@ class MemeBotController extends Controller
             $curmeme = [
                 'url' => 'https://s3.amazonaws.com/ipster.co-uploads' . $filepath,
                 'storage_path' => $filepath,
-                'scheduled' => Post::nextDateTimeString()
+                'scheduled' => Post::nextDateTimeString(),
+                'views' => rand(540,1070),
+                'shares' => rand(135, 318),
             ];
 
             $post = Post::create($curmeme);

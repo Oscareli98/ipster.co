@@ -25,8 +25,8 @@ ipster | fotos {{ $category }}
           <img src="{{ $post->url }}" alt="">
           <div class="post-content">
             <div class="stats">
-              <p class="time pull-left">{{ $post->views }} view{{ $post->views == 1 ? '' : 's' }}</p>
-              <p class="shares pull-right">{{ $post->shares }} share{{ $post->shares == 1 ? '' : 's' }}</p>
+              <p class="time pull-left">{{ $post->views }} visualizacione{{ $post->views == 1 ? '' : 's' }}</p>
+              <p class="shares pull-right">compartida {{ $post->shares }} veces</p>
             </div>
           </div>
         </a>

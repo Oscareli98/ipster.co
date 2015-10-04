@@ -13,7 +13,7 @@ use Illuminate\Database\Eloquent\Model;
 class Post extends Model
 {
 
-    protected $fillable = ['title', 'url', 'storage_path', 'scheduled', 'posted'];
+    protected $fillable = ['title', 'url', 'storage_path', 'scheduled', 'posted', 'views', 'shares'];
 
     public function hasNext() {
         return !is_null(Post::posted()->where('id', '>', $this->id)->first());
@@ -81,17 +81,37 @@ class Post extends Model
 
         $photo_url = urlencode($this->url);
         $base = env('FACEBOOK_PAGE_ID');
+        $url = $base . "/photos?url=$photo_url";
 
-        $photo_id = json_decode(Facebook::post("$base/photos?no_story=1&url=$photo_url")->getGraphEvent(), true)['id'];
-        $url = $base . "/feed?object_attachment=$photo_id";
+        $message = Post::randomMessage();
 
+        if(!is_null($message)) {
+            $url .= "&message=$message";
+        }
 
         if(!$this->isPosted()) {
             $scheduled_time = Post::toUTCTimestamp($this->scheduled);
             $url .= "&published=0&scheduled_publish_time=$scheduled_time";
         }
 
-        Facebook::post($url);
+        if(Facebook::post($url)) {
+            echo "post ". $this->id . " scheduled on facebook<br>";
+        }
+    }
+
+    public static function randomMessage() {
+        $baseMessage = "ver màs a http://ipster.co";
+        $messages = [
+            'jajaja!!!',
+            'jajaja :p',
+            'lol!!!',
+            'si!!!',
+        ];
+
+        if(rand(0,3) == 0){
+            return urlencode($messages[rand(0,count($messages)-1)]) /*. "<center></center>$baseMessage"*/;
+        }
+        return NULL;
     }
 
     /**
@@ -129,7 +149,7 @@ class Post extends Model
     }
 
     public static function randomTime() {
-        $time = Carbon::createFromTime(6,0,0, 'America/Chicago')->addHours(rand(0, 3))->addMinutes(rand(0, 60));
+        $time = Carbon::createFromTime(18,0,0, 'America/Chicago')->addHours(rand(0, 3))->addMinutes(rand(0, 60));
         return $time;
     }
 
