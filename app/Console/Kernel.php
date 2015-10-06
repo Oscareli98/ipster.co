@@ -26,12 +26,13 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        if (App::environment('production'))
-        {
-            $schedule->call(function() {
-                App::call('App\Http\Controllers\MemeBotController@scrapeMemes');
-            })->dailyAt("00:00");
-        }
+
+        $schedule->call(function() {
+            App::call('App\Http\Controllers\MemeBotController@scrapeMemes');
+        })->dailyAt("00:00")
+          ->when(function() {
+            return App::environment('production');
+          });
 
     }
 }

@@ -92,6 +92,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/Http\/Controllers\/MemeBotController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/Http\/Controllers\/MemeBotController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/Http\/Controllers\/PostController.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -315,6 +324,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config\/filesystems.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/config\/laravel-facebook-sdk.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config\/laravel-facebook-sdk.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2993,6 +3011,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/Exception\/ParserException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/Exception\/ParserException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/JsonParser.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3007,6 +3034,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/JsonRpcParser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/PayloadParserTrait.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/Api\/Parser\/PayloadParserTrait.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3884,29 +3920,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/api-2.json.php": {
+	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/api-2.json.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/api-2.json.php",
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/api-2.json.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/paginators-1.json.php": {
+	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/paginators-1.json.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/paginators-1.json.php",
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/paginators-1.json.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/waiters-2.json.php": {
+	"\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/waiters-2.json.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-04-15\/waiters-2.json.php",
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/ec2\/2015-10-01\/waiters-2.json.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4105,6 +4141,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/endpoints.json.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/data\/es\/2015-01-01\/api-2.json.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/es\/2015-01-01\/api-2.json.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4447,6 +4492,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/sqs\/2012-11-05\/paginators-1.json.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/data\/sqs\/2012-11-05\/waiters-2.json.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/data\/sqs\/2012-11-05\/waiters-2.json.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4865,6 +4919,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/ElasticsearchService\/ElasticsearchServiceClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/ElasticsearchService\/ElasticsearchServiceClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/ElasticsearchService\/Exception\/ElasticsearchServiceException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/ElasticsearchService\/Exception\/ElasticsearchServiceException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/aws\/aws-sdk-php\/src\/ElasticTranscoder\/ElasticTranscoderClient.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5243,6 +5315,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/Multipart\/AbstractUploadManager.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/Multipart\/AbstractUploadManager.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/aws\/aws-sdk-php\/src\/Multipart\/UploadState.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5387,6 +5468,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/AmbiguousSuccessParser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/AmbiguousSuccessParser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/ApplyChecksumMiddleware.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5450,11 +5540,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartCopy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartCopy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartUploader.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartUploader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartUploadingTrait.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/MultipartUploadingTrait.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5482,6 +5590,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/PutObjectUrlMiddleware.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/aws\/aws-sdk-php\/src\/S3\/RetryableMalformedResponseParser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/aws\/aws-sdk-php\/src\/S3\/RetryableMalformedResponseParser.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6548,6 +6665,1479 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/doctrine\/instantiator\/tests\/DoctrineTest\/InstantiatorTestAsset\/XMLReaderAsset.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/fabpot\/goutte\/box.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/box.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/box-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/fabpot\/goutte\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/fabpot\/goutte\/Goutte\/Client.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/Goutte\/Client.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/fabpot\/goutte\/Goutte\/Resources\/phar-stub.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/Goutte\/Resources\/phar-stub.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/fabpot\/goutte\/Goutte\/Tests\/ClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/fabpot\/goutte\/Goutte\/Tests\/ClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/CHANGELOG.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/CHANGELOG.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/CHANGELOG.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/CONTRIBUTING.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/CONTRIBUTING.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/CONTRIBUTING.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/AccessToken.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/AccessToken.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/AccessTokenMetadata.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/AccessTokenMetadata.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/OAuth2Client.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Authentication\/OAuth2Client.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/autoload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/autoload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookAuthenticationException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookAuthenticationException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookAuthorizationException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookAuthorizationException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookClientException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookClientException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookOtherException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookOtherException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookResponseException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookResponseException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookSDKException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookSDKException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookServerException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookServerException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookThrottleException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Exceptions\/FacebookThrottleException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Facebook.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Facebook.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookApp.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookApp.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookBatchRequest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookBatchRequest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookBatchResponse.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookBatchResponse.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookRequest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookRequest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookResponse.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FacebookResponse.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/FacebookFile.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/FacebookFile.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/FacebookVideo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/FacebookVideo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/Mimetypes.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/FileUpload\/Mimetypes.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/Collection.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/Collection.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphAchievement.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphAchievement.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphAlbum.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphAlbum.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphApplication.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphApplication.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphCoverPhoto.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphCoverPhoto.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphEdge.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphEdge.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphEvent.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphEvent.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphGroup.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphGroup.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphList.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphList.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphLocation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphLocation.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphNode.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphNode.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphNodeFactory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphNodeFactory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphObject.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphObject.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphObjectFactory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphObjectFactory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphPage.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphPage.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphPicture.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphPicture.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphSessionInfo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphSessionInfo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphUser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/GraphNodes\/GraphUser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookCanvasHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookCanvasHelper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookJavaScriptHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookJavaScriptHelper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookPageTabHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookPageTabHelper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookRedirectLoginHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookRedirectLoginHelper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookSignedRequestFromInputHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Helpers\/FacebookSignedRequestFromInputHelper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/GraphRawResponse.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/GraphRawResponse.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyMultipart.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyMultipart.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyUrlEncoded.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Http\/RequestBodyUrlEncoded.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookCurl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookCurl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookCurlHttpClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookCurlHttpClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookGuzzleHttpClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookGuzzleHttpClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookHttpClientInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookHttpClientInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookStream.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookStream.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookStreamHttpClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/HttpClients\/FacebookStreamHttpClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/FacebookMemoryPersistentDataHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/FacebookMemoryPersistentDataHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/FacebookSessionPersistentDataHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/FacebookSessionPersistentDataHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/PersistentDataInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PersistentData\/PersistentDataInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/McryptPseudoRandomStringGenerator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/McryptPseudoRandomStringGenerator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/OpenSslPseudoRandomStringGenerator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/OpenSslPseudoRandomStringGenerator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/PseudoRandomStringGeneratorInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/PseudoRandomStringGeneratorInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/PseudoRandomStringGeneratorTrait.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/PseudoRandomStringGeneratorTrait.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/UrandomPseudoRandomStringGenerator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/PseudoRandomString\/UrandomPseudoRandomStringGenerator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/SignedRequest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/SignedRequest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/FacebookUrlDetectionHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/FacebookUrlDetectionHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/FacebookUrlManipulator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/FacebookUrlManipulator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/UrlDetectionInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/src\/Facebook\/Url\/UrlDetectionInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/AccessTokenMetadata.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/AccessTokenMetadata.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/AccessTokenTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/AccessTokenTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/FooFacebookClientForOAuth2Test.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/FooFacebookClientForOAuth2Test.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/OAuth2ClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Authentication\/OAuth2ClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/bootstrap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/bootstrap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Exceptions\/FacebookResponseExceptionTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Exceptions\/FacebookResponseExceptionTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookAppTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookAppTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookBatchRequestTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookBatchRequestTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookBatchResponseTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookBatchResponseTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookRequestTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookRequestTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookResponseTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookResponseTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FacebookTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FileUpload\/FacebookFileTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FileUpload\/FacebookFileTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/FileUpload\/MimetypesTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/FileUpload\/MimetypesTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/AbstractGraphNode.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/AbstractGraphNode.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/CollectionTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/CollectionTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphAchievementTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphAchievementTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphAlbumTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphAlbumTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphEdgeTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphEdgeTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphEventTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphEventTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphGroupTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphGroupTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphNodeFactoryTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphNodeFactoryTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphNodeTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphNodeTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphObjectFactoryTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphObjectFactoryTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphPageTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphPageTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphSessionInfoTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphSessionInfoTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphUserTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/GraphNodes\/GraphUserTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookCanvasHelperTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookCanvasHelperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookJavaScriptHelperTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookJavaScriptHelperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookPageTabHelperTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookPageTabHelperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookRedirectLoginHelperTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookRedirectLoginHelperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookSignedRequestFromInputHelperTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Helpers\/FacebookSignedRequestFromInputHelperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/GraphRawResponseTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/GraphRawResponseTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/RequestBodyMultipartTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/RequestBodyMultipartTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/RequestUrlEncodedTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Http\/RequestUrlEncodedTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/AbstractTestHttpClient.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/AbstractTestHttpClient.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookCurlHttpClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookCurlHttpClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookGuzzleHttpClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookGuzzleHttpClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookStreamHttpClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/HttpClients\/FacebookStreamHttpClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PersistentData\/FacebookMemoryPersistentDataHandlerTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PersistentData\/FacebookMemoryPersistentDataHandlerTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PersistentData\/FacebookSessionPersistentDataHandlerTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PersistentData\/FacebookSessionPersistentDataHandlerTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/McryptPseudoRandomStringGeneratorTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/McryptPseudoRandomStringGeneratorTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/OpenSslPseudoRandomStringGeneratorTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/OpenSslPseudoRandomStringGeneratorTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/PseudoRandomStringGeneratorTraitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/PseudoRandomStringGeneratorTraitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/UrandomPseudoRandomStringGeneratorTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/PseudoRandomString\/UrandomPseudoRandomStringGeneratorTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/SignedRequestTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/SignedRequestTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Url\/FacebookUrlDetectionHandlerTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Url\/FacebookUrlDetectionHandlerTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/facebook\/php-sdk-v4\/tests\/Url\/FacebookUrlManipulatorTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/facebook\/php-sdk-v4\/tests\/Url\/FacebookUrlManipulatorTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/filp\/whoops\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/filp\/whoops\/LICENSE.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/LICENSE.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/filp\/whoops\/LICENSE.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/ExceptionStrategy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/ExceptionStrategy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/module.config.example.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/module.config.example.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/Module.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/Module.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/RouteNotFoundStrategy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/deprecated\/Zend\/RouteNotFoundStrategy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/ErrorException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/ErrorException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Formatter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Formatter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Frame.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Frame.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/FrameCollection.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/FrameCollection.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Inspector.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Exception\/Inspector.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/CallbackHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/CallbackHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/Handler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/Handler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/HandlerInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/HandlerInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/JsonResponseHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/JsonResponseHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/PlainTextHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/PlainTextHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/PrettyPageHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/PrettyPageHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/SoapResponseHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/SoapResponseHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/XmlResponseHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Handler\/XmlResponseHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Provider\/Phalcon\/WhoopsServiceProvider.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Provider\/Phalcon\/WhoopsServiceProvider.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Provider\/Silex\/WhoopsServiceProvider.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Provider\/Silex\/WhoopsServiceProvider.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/css\/whoops.base.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/css\/whoops.base.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/whoops.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/whoops.base.js",
+		"outputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/min\/whoops.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/zepto.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/zepto.min.js",
+		"outputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/js\/min\/zepto.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/env_details.html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/env_details.html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/frame_code.html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/frame_code.html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/frame_list.html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/frame_list.html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/header.html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/header.html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/layout.html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Resources\/views\/layout.html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Run.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Run.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Util\/Misc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Util\/Misc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/filp\/whoops\/src\/Whoops\/Util\/TemplateHelper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/filp\/whoops\/src\/Whoops\/Util\/TemplateHelper.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -10239,6 +11829,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/guzzlehttp\/guzzle\/src\/RetryMiddleware.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/guzzlehttp\/guzzle\/src\/TransferStats.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/guzzlehttp\/guzzle\/src\/TransferStats.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -14159,6 +15758,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/laravel\/framework\/src\/Illuminate\/Database\/DetectsLostConnections.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/laravel\/framework\/src\/Illuminate\/Database\/DetectsLostConnections.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/laravel\/framework\/src\/Illuminate\/Database\/Eloquent\/Builder.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -15302,6 +16910,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Console\/TestMakeCommand.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Console\/TestMakeCommand.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Console\/TinkerCommand.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -15541,6 +17158,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Testing\/DatabaseTransactions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Testing\/HttpException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/laravel\/framework\/src\/Illuminate\/Foundation\/Testing\/HttpException.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -24165,6 +25791,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/features\/bootstrap\/autoloader\/autoload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/features\/bootstrap\/autoloader\/autoload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/features\/bootstrap\/Fake\/Prompter.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -24264,6 +25899,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeAnalysis\/MagicAwareAccessInspectorSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeAnalysis\/MagicAwareAccessInspectorSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeAnalysis\/VisibilityAccessInspectorSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeAnalysis\/VisibilityAccessInspectorSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeGenerator\/Generator\/ClassGeneratorSpec.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -24323,6 +25976,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeGenerator\/TemplateRendererSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeGenerator\/Writer\/TokenizedCodeWriterSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/CodeGenerator\/Writer\/TokenizedCodeWriterSpec.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -24921,6 +26583,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Process\/Context\/JsonExecutionContextSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Process\/Context\/JsonExecutionContextSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisitesSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisitesSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Process\/ReRunner\/CompositeReRunnerSpec.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -25016,6 +26696,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/ServiceContainerSpec.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Util\/ClassFileAnalyserSpec.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/spec\/PhpSpec\/Util\/ClassFileAnalyserSpec.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -25137,6 +26826,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/AccessInspectorInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/AccessInspectorInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/MagicAwareAccessInspector.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/MagicAwareAccessInspector.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/VisibilityAccessInspector.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeAnalysis\/VisibilityAccessInspector.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Generator\/ClassGenerator.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -25209,6 +26925,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Generator\/PrivateConstructorGenerator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Generator\/PrivateConstructorGenerator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Generator\/PromptingGenerator.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -25250,6 +26975,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/TemplateRenderer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Writer\/CodeWriter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Writer\/CodeWriter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Writer\/TokenizedCodeWriter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/CodeGenerator\/Writer\/TokenizedCodeWriter.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -25592,6 +27335,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Exception\/Fracture\/PropertyNotFoundException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Exception\/Generator\/NamedMethodNotFoundException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Exception\/Generator\/NamedMethodNotFoundException.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -26343,6 +28095,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Context\/ExecutionContextInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Context\/ExecutionContextInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Context\/JsonExecutionContext.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Context\/JsonExecutionContext.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/PrerequisiteFailedException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/PrerequisiteFailedException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisites.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisites.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisitesInterface.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/Prerequisites\/SuitePrerequisitesInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Process\/ReRunner.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -26519,6 +28316,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/SpecificationInterface.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Util\/ClassFileAnalyser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpspec\/phpspec\/src\/PhpSpec\/Util\/ClassFileAnalyser.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -29269,6 +31075,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/phpunit\/php-token-stream\/tests\/_fixture\/class_with_method_that_declares_anonymous_class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/phpunit\/php-token-stream\/tests\/_fixture\/class_with_method_that_declares_anonymous_class2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/phpunit\/php-token-stream\/tests\/_fixture\/class_with_method_that_declares_anonymous_class2.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -34513,6 +36328,161 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/CHANGELOG.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/CHANGELOG.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/CHANGELOG.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/CONTRIBUTING.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/CONTRIBUTING.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/CONTRIBUTING.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/config\/laravel-facebook-sdk.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/config\/laravel-facebook-sdk.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/FacebookFacade.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/FacebookFacade.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelFacebookSdk.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelFacebookSdk.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelFacebookSdkServiceProvider.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelFacebookSdkServiceProvider.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelPersistentDataHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelPersistentDataHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelUrlDetectionHandler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/LaravelUrlDetectionHandler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/SyncableGraphNodeTrait.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/src\/LaravelFacebookSdk\/SyncableGraphNodeTrait.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/tests\/LaravelFacebookSdkTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/tests\/LaravelFacebookSdkTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/sammyk\/laravel-facebook-sdk\/tests\/SyncableGraphNodeTraitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/sammyk\/laravel-facebook-sdk\/tests\/SyncableGraphNodeTraitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/sebastian\/comparator\/composer.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -38026,6 +39996,167 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/symfony\/browser-kit\/CHANGELOG.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/CHANGELOG.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/CHANGELOG.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Client.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Client.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/symfony\/browser-kit\/Cookie.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Cookie.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/CookieJar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/CookieJar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/History.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/History.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Request.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Request.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Response.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Response.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/ClientTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/ClientTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/CookieJarTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/CookieJarTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/CookieTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/CookieTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/HistoryTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/HistoryTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/RequestTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/RequestTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/browser-kit\/Tests\/ResponseTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/browser-kit\/Tests\/ResponseTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/symfony\/console\/Application.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -38669,6 +40800,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/symfony\/console\/Tests\/ApplicationTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/console\/Tests\/ClockMock.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/console\/Tests\/ClockMock.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -40915,6 +43055,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/symfony\/debug\/Tests\/HeaderMock.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/debug\/Tests\/HeaderMock.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/symfony\/debug\/Tests\/MockExceptionHandler.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -41758,6 +43907,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/symfony\/finder\/Tests\/BsdFinderTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/finder\/Tests\/BsdFinderTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/symfony\/finder\/Tests\/Comparator\/ComparatorTest.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -41862,6 +44020,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/symfony\/finder\/Tests\/GlobTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/finder\/Tests\/GnuFinderTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/finder\/Tests\/GnuFinderTest.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -45768,6 +47935,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/vendor\/symfony\/routing\/Tests\/Fixtures\/OtherAnnotatedClasses\/VariadicClass.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/routing\/Tests\/Fixtures\/OtherAnnotatedClasses\/VariadicClass.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/symfony\/routing\/Tests\/Fixtures\/RedirectableUrlMatcher.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -47253,6 +49429,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/symfony\/var-dumper\/Tests\/HtmlDumperTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/var-dumper\/Tests\/Test\/VarDumpTestTraitRequire54.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/var-dumper\/Tests\/Test\/VarDumpTestTraitRequire54.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/symfony\/var-dumper\/Tests\/Test\/VarDumpTestTraitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/symfony\/var-dumper\/Tests\/Test\/VarDumpTestTraitTest.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
